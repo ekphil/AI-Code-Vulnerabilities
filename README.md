@@ -26,7 +26,7 @@ AI-powered coding tools significantly enhance developer productivity, but they o
   - Weak cryptographic practices (e.g., using AES-CBC without authentication)  
   - SQL injection risks (unsafe user input handling)  
   - Debug mode enabled in production (exposing server details)  
-- Some LLMs failed to fix their own security flaws.  
+- **Some LLMs failed to fix their own security flaws**. 
 
 ### Full Report  
 The full paper has been made available in this repository
