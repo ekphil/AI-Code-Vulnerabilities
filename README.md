@@ -29,5 +29,5 @@ AI-powered coding tools significantly enhance developer productivity, but they o
 - **Some LLMs failed to fix their own security flaws**. 
 
 ### Full Report  
-The full paper has been made available in this repository
+The full paper, prompts, and generated codes have been made available in this repository
 
